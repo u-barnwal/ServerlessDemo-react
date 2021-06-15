@@ -17,6 +17,14 @@ Run the dev build
 yarn dev
 ```
 
+## Functions
+
+### [helloWorld](functions/helloWorld.js)
+Return a JSON object with following data
+```json
+{ message: "Hello Serverless!" }
+```
+
 ## Technologies Used
 - [netlify-cli](https://www.npmjs.com/package/netlify-cli)
 - [Axios](https://www.npmjs.com/package/axios)
