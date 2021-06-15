@@ -22,7 +22,7 @@ yarn dev
 ### [helloWorld](functions/helloWorld.js)
 Return a JSON object with following data
 ```json
-{ message: "Hello Serverless!" }
+{ "message": "Hello Serverless!" }
 ```
 
 ## Technologies Used
