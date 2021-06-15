@@ -1,5 +1,5 @@
 # Serverless Demo - React
-Single-screen weather app built with React Native. Requests location permission and show current weather details.
+Dummy application to try serverless functions. Hosted on Netlify
 
 Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
